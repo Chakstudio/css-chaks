@@ -1,6 +1,6 @@
 /*
-* Title:  Dress css 1.dress .0.dress .0
-* Autor: eladolo@chakstudio.dress .com
+* Title:  Dress css 1.0.0
+* Autor: eladolo@chakstudio.com
 * License:  MIT
 * Description: css helper system
 */
@@ -804,18 +804,6 @@
 	padding-bottom: 1%;
 }
 /*
-* Position
-*/
-.dress .center{
-	margin: 0 auto;
-}
-.dress .left{
-	float: left;
-}
-.dress .right{
-	float: right;
-}
-/*
 * Text decoration
 */
 .dress .text-uppercase{
@@ -846,21 +834,21 @@
 	text-decoration: blink;
 }
 .dress .text-decoration-none{
-	text-decoration: blink;
+	text-decoration: none;
 }
 /*
 * Text Position
 */
-.dress .align-left{
+.dress .text-left{
 	text-align: left;
 }
-.dress .align-right{
+.dress .text-right{
 	text-align: right;
 }
-.dress .align-center{
+.dress .text-center{
 	text-align: center;
 }
-.dress .align-justify{
+.dress .text-justify{
 	text-align: justify;
 }
 /*
@@ -1005,7 +993,7 @@
 /*
 * Colors
 * "black", "white", "gray", "silver", "maroon", "red", "purple",
-* "fushsia", "green", "lime", "olive", "yellow", "navy", "blue",
+* "hotpink", "green", "lime", "olive", "yellow", "navy", "blue",
 * "teal", and "aqua"
 */
 .dress .black{
@@ -1226,6 +1214,15 @@
 }
 .dress .mouse-over:hover{
 	box-shadow: 5px 12px 17px black;
+}
+.dress .center{
+	margin: 0 auto;
+}
+.dress .left{
+	float: left;
+}
+.dress .right{
+	float: right;
 }
 /*
 * Position
