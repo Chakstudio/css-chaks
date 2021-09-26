@@ -58,7 +58,7 @@ For dressing your container & his children with the following helper's
     <title>Tiny Grid + Dress.css Demo</title>
 </head>
 <body class="dress bg-grey">
-    <div class="center p-1 w-5 text-center sqr-48 mouse-over box-shadow border-blue border-solid border-s4 md-hide">
+    <div class="p-1 w-5 text-center sqr-48 mouse-over box-shadow border-blue border-solid border-s4 md-hide">
         <i class="material-icons fs-48 w-100 c-pointer green">check</i>
     </div>
 </body>
