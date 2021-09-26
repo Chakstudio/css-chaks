@@ -50,23 +50,35 @@ And the following class in your parent container:
     <body class="dress">
 ```
 For dressing your container & his children with the following helper's
+```html
+    <head>
+        <link rel="stylesheet" href="./css/tinygrid-min.css">
+        <link rel="stylesheet" href="./css/dress-min.css">
+        <title>Tiny Grid + Dress.css Demo</title>
+    </head>
+    <body class="dress bg-grey">
+        <div class="center p-1 w-5 text-center sqr-48 mouse-over box-shadow border-blue border-solid border-s4 md-hide">
+            <i class="material-icons fs-48 w-100 c-pointer green">check</i>
+        </div>
+    </body>
+```
 ###### width:
-- ".w-{0-100}" in steps of 5%
+- ".w-{1-100}" in steps of 5% (1,5,10,15...)
 ----------
 ###### height:
-- ".h-{0-100}" in steps of calc(5vh)
+- ".h-{1-100}" in steps of calc(5vh) (1,5,10,15...)
 ----------
 ###### margin:
-- ".m-{0-100}" in steps of 5%
-- ".ml-{0-100}" margin left in steps of 5%
-- ".mr-{0-100}" margin right in steps of 5%
-- ".mt-{0-100}" margin top in steps of 5%
-- ".mb-{0-100}" margin bottom in steps of 5%
+- ".m-{0-100}" in steps of 5% (0,1,5,10,15...)
+- ".ml-{1-100}" margin left in steps of 5% (1,5,10,15...)
+- ".mr-{1-100}" margin right in steps of 5% (1,5,10,15...)
+- ".mt-{1-100}" margin top in steps of 5% (1,5,10,15...)
+- ".mb-{1-100}" margin bottom in steps of 5% (1,5,10,15...)
 ----------
 ###### padding:
-- ".p-{0-100}" in steps of 5%
-- ".pl-{0-100}" padding left in steps of 5%
-- ".pr-{0-100}" padding right in steps of 5%
-- ".pt-{0-100}" padding top in steps of 5%
-- ".pb-{0-100}" padding bottom in steps of 5%
+- ".p-{0-100}" in steps of 5% (0,1,5,10,15...)
+- ".pl-{1-100}" padding left in steps of 5% (1,5,10,15...)
+- ".pr-{1-100}" padding right in steps of 5% (1,5,10,15...)
+- ".pt-{1-100}" padding top in steps of 5% (1,5,10,15...)
+- ".pb-{1-100}" padding bottom in steps of 5% (1,5,10,15...)
 ----------
