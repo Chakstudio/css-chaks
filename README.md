@@ -1,5 +1,5 @@
 # css-libs
-#### **_css-libs_ are**:
+#### _css-libs_ are:
 a lightweight CSS flex grid library(Tiny Grid[^1])
 #### ➕ 
 a CSS helper library(Dress.css[^2])
