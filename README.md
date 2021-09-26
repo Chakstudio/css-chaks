@@ -2,7 +2,7 @@
 #### _css-libs_ are:
 a lightweight CSS flex grid library([Tiny Grid](#tiny-grid))
 #### ➕ 
-a CSS helper library([Dress.css](#dress.css))
+a CSS helper library([Dress.css](#dresscss))
 for creating responsive UI's
 [DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
 ## Tiny Grid
