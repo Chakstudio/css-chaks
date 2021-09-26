@@ -1,12 +1,12 @@
 # css-libs
 #### _css-libs_ are:
-a lightweight CSS flex grid library(Tiny Grid[^1])
+a lightweight CSS flex grid library([Tiny Grid](#tiny-grid))
 #### ➕ 
-a CSS helper library(Dress.css[^2])
+a CSS helper library([Dress.css](#dress.css))
 for creating responsive UI's
 [DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
 ## Tiny Grid
-[^1]To used it you have to include the following file in your html head:
+To used it you have to include the following file in your html head:
 ```bash
     ./src/tinygrid-min.css
 ```
@@ -35,7 +35,7 @@ For advance control in the flex grid behavior:
 - ".tg-align-content-{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
 ----------
 ## Dress.css
-[^2]To used it you have to include the following file in your html head:
+To used it you have to include the following file in your html head:
 ```bash
     ./src/dress-min.css
 ```
