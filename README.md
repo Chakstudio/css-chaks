@@ -5,7 +5,7 @@ CSS helper library [Dress.css](#dresscss)
 #### for creating responsive UI's
 - [DEMO](https://github.com/Chakstudio/css-chaks/tree/main/demo)
 ----------
-![Logo](https://github.com/Chakstudio/css-chaks/tree/main/demo/img/logo.png)
+![Logo](https://raw.githubusercontent.com/Chakstudio/css-chaks/main/demo/img/logo.png)
 ## Tiny Grid
 To used it you have to include the following file in your html head:
 ```bash
