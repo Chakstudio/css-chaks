@@ -140,6 +140,10 @@ for border-style propierty
 - ".{"text", "box"}-shadow"  
 for shadows in font and elements
 ----------
+###### Opacity
+- ".op-{0-10}"  
+for _opacity_ changes in elements
+----------
 ###### Elements
 - ".overflow-{auto, hidden, scroll, autohide}"  
 for change _overflow_ elements behaivor
