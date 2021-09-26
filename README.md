@@ -24,9 +24,11 @@ And the following structure in your html tags:
     </div>
 ```
 Where:
-- ".tg-col-{1-12}" are the css class for desktop views
-- ".tg-col-md-{1-12}" are the css class for tablet and mid screen views
-- ".tg-col-sm-{1-12}" are the css class for smarthphone views
+- ".tg-container" css class for a container to wrap the flex container
+- ".tg-row" css class for the flex container
+- ".tg-col-{1-12}" css class for desktop views
+- ".tg-col-md-{1-12}" css class for tablet and mid screen views
+- ".tg-col-sm-{1-12}" css class for smarthphone views
 ----------
 And:
 - ".lg-hide" for hide in desktop views
@@ -34,9 +36,9 @@ And:
 - ".sm-hide" for hide in smarthphone views
 ----------
 For advance control in the flex grid behavior:
-- ".tg-justify-{flex-start,flex-end,center}" for control flex justify behavior
-- ".tg-align-{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
-- ".tg-align-content-{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
+- ".tg-justify{-, -md-,-sm-}{flex-start,flex-end,center}" for control flex justify behavior
+- ".tg-align{-, -md-,-sm-}{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
+- ".tg-align-content{-, -md-,-sm-}{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
 ----------
 ## Dress.css
 To used it you have to include the following file in your html head:
@@ -52,16 +54,16 @@ And the following class in your parent container:
 ```
 For dressing your container & his children with the following [helper's](#helpers)
 ```html
-<head>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="./css/dress-min.css">
-    <title>Dress.css Demo</title>
-</head>
-<body class="dress bg-grey">
-    <div class="p-1 w-5 text-center sqr-48 box-shadow border-blue border-solid border-s4 md-hide">
-        <i class="material-icons fs-48 w-100 c-pointer green mouse-over">check</i>
-    </div>
-</body>
+    <head>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="./css/dress-min.css">
+        <title>Dress.css Demo</title>
+    </head>
+    <body class="dress bg-grey">
+        <div class="p-1 w-5 text-center sqr-48 box-shadow border-blue border-solid border-s4 md-hide">
+            <i class="material-icons fs-48 w-100 c-pointer green mouse-over">check</i>
+        </div>
+    </body>
 ```
 #### Helper's
 ----------
