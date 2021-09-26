@@ -49,7 +49,7 @@ And the following class in your parent container:
 ```html
     <body class="dress">
 ```
-For dressing your container & his children with the following helper's
+For dressing your container & his children with the following [helper's](#helpers)
 ```html
 <head>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
