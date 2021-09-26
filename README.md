@@ -140,7 +140,7 @@ for border-style propierty
 - ".{"text", "box"}-shadow"  
 for shadows in font and elements
 ----------
-###### shorthands
+###### Shortcuts
 - ".overflow-{auto, hidden, scroll, autohide}"  
 for change _overflow_ behaivor
 - ".{center, left, right, absolute, relative, fixed}"  
