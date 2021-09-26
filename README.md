@@ -1,9 +1,9 @@
-# css-libs are:
+# css-chaks are:
 lightweight CSS flex grid library [Tiny Grid](#tiny-grid)
 #### ➕ 
 CSS helper library [Dress.css](#dresscss)
 #### for creating responsive UI's
-- [DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
+- [DEMO](https://github.com/Chakstudio/css-chaks/tree/main/demo)
 ----------
 ## Tiny Grid
 To used it you have to include the following file in your html head:
