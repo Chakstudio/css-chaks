@@ -1,10 +1,10 @@
-# css-libs
-#### _css-libs_ are:
+# css-libs are:
 lightweight CSS flex grid library [Tiny Grid](#tiny-grid)
 #### ➕ 
 CSS helper library [Dress.css](#dresscss)
 #### for creating responsive UI's
-[DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
+- [DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
+----------
 ## Tiny Grid
 To used it you have to include the following file in your html head:
 ```bash
