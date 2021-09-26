@@ -140,9 +140,9 @@ for border-style propierty
 - ".{"text", "box"}-shadow"  
 for shadows in font and elements
 ----------
-###### Shortcuts
+###### Elements
 - ".overflow-{auto, hidden, scroll, autohide}"  
-for change _overflow_ behaivor
+for change _overflow_ elements behaivor
 - ".{center, left, right, absolute, relative, fixed}"  
 for position elements with _float_, _margin: 0 auto_ and _position_
 - ".d-{none, block, inline-block}"  
