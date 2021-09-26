@@ -1,7 +1,7 @@
 # css-libs
-#### css-libs are
+## css-libs are
 a lightweight CSS flex grid library(Tiny Grid)
-#### plus 
+## ➕ 
 a CSS helper library(Dress.css)
 for creating responsive UI's 
 ## Tiny Grid
@@ -37,6 +37,10 @@ For advance control in the flex grid behavior:
 To used it you have to include the following file in your html head:
 ```bash
     ./src/dress-min.css
+```
+And the following class in your parent container:
+```html
+    <body class="dress">
 ```
 width:
 - ".w-{0-100}" in steps of 5%
