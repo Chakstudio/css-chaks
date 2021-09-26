@@ -63,7 +63,8 @@ For dressing your container & his children with the following helper's
     </div>
 </body>
 ```
-##### Helper's
+#### Helper's
+----------
 ###### width:
 - ".w-{1-100}" in steps of 5% (1,5,10,15...)
 ----------
