@@ -88,35 +88,36 @@ For dressing your container & his children with the following [helper's](#helper
 - ".pb-{1-100}" padding bottom in steps of 5% (1,5,10,15...)
 ----------
 ###### Text decoration:
-- ".text-{uppercase,lowercase,capitalize,bold,bolder,underline,overline,line-through,blink,decoration-none}"
+- ".text-{uppercase,lowercase,capitalize,bold,bolder,underline,overline,line-through,blink,decoration-none}"  
 for text decoration and basic styling
 ----------
 ###### Text Position:
-- ".text-{left,right,center,justify}"
+- ".text-{left,right,center,justify}"  
 for text alignment
 ----------
 ###### Font Size:
 - ".fs-{6-72}" in steps of 3px (6,9,12,...,72)
 ----------
 ###### Cursors:
-- ".c-{pointer,move,help,wait,hand}" for cursor icons
+- ".c-{pointer,move,help,wait,hand}"  
+for cursor icons
 ----------
 ###### Shapes:
-- ".rounded"
+- ".rounded"  
 for rounded corners on elements of 5px of border-radius
-- ".circle"
+- ".circle"  
 for circle elements of 50% of border-radius
-- ".sqr-{24,48,96,128}"
+- ".sqr-{24,48,96,128}"  
 for square shapes in pixels
-- ".rec-{24,48,96,128}"
+- ".rec-{24,48,96,128}"  
 for rectangle shapes pixels **WHERE** the *height* is the _double_ of the *width*
 ----------
 #### Colors:
-* "black", "white", "gray", "silver", "maroon", "red", "purple", *
-* "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", *
-* "teal", and "aqua" *
+* "black", "white", "gray", "silver", "maroon", "red", "purple", *  
+* "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", *  
+* "teal", and "aqua" *  
 ----------
 ###### Font
-- ".{"black", "white", "gray", "silver", "maroon", "red", "purple","hotpink", "green", "lime", "olive", "yellow", "navy", "blue","teal", and "aqua"}"
+- ".{"black", "white", "gray", "silver", "maroon", "red", "purple","hotpink", "green", "lime", "olive", "yellow", "navy", "blue","teal","aqua"}"  
 for font color
 ----------
