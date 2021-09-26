@@ -110,7 +110,7 @@ for circle elements of 50% of border-radius
 - ".sqr-{24,48,96,128}"  
 for square shapes in pixels
 - ".rec-{24,48,96,128}"  
-for rectangle shapes pixels **WHERE** the *height* is the _double_ of the *width*
+for rectangle shapes **WHERE** the *height* is the _double_ of the *width* in pixels
 ----------
 #### Colors:
 * "black", "white", "gray", "silver", "maroon", "red", "purple", *  
@@ -118,6 +118,35 @@ for rectangle shapes pixels **WHERE** the *height* is the _double_ of the *width
 * "teal", and "aqua" *  
 ----------
 ###### Font
-- ".{"black", "white", "gray", "silver", "maroon", "red", "purple","hotpink", "green", "lime", "olive", "yellow", "navy", "blue","teal","aqua"}"  
+- ".{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
 for font color
+----------
+###### Background
+- ".bg-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
+for background color
+----------
+###### Border Color
+- ".border-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
+for border color
+----------
+###### Border Width
+- ".border-s{1-5}" in steps of 1px
+----------
+###### Border Style
+- ".border-{"solid", "dashed", "dotted", "double", "ridge", "none"}"  
+for border-style propierty
+----------
+###### Shadows
+- ".{"text", "box"}-shadow"  
+for shadows in font and elements
+----------
+###### shorthands
+- ".overflow-{auto, hidden, scroll, autohide}"  
+for change _overflow_ behaivor
+- ".{center, left, right, absolute, relative, fixed}"  
+for position elements with _float_, _margin: 0 auto_ and _position_
+- ".d-{none, block, inline-block}"  
+for visibility elements with _display_
+- ".mouse-over"  
+for mouseover element styling with _box-shadow_ and _border-radius_
 ----------

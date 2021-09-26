@@ -1195,7 +1195,7 @@
 	box-shadow: 1px 10px 15px black;
 }
 /*
-* Helpers
+* Shorthands
 */
 .dress .overflow-auto{
 	overflow:  auto;
@@ -1224,9 +1224,6 @@
 .dress .right{
 	float: right;
 }
-/*
-* Position
-*/
 .dress .absolute{
 	position:  absolute;
 }
@@ -1236,9 +1233,6 @@
 .dress .fixed{
 	position:  fixed;
 }
-/*
-* Display
-*/
 .dress .d-none{
 	display:  none;
 }
