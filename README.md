@@ -6,18 +6,18 @@ a CSS helper library(Dress.css)
 for creating responsive UI's 
 ## Tiny Grid
 To used it you have to include the following file in your html head:
-´´´bash
+```bash
     ./src/tinygrid-min.css
-´´´
+```
 And the following structure in your html tags:
-´´´html
+```html
     <div class="tg-container">
         <div class="tg-row">
             <div class="tg-col-4 tg-col-md-6 tg-col-sm-12">                
             </div>
         </div>
     </div>
-´´´
+```
 Where:
 - ".tg-col-{1-12}" are the css class for desktop views
 - ".tg-col-md-{1-12}" are the css class for tablet and mid screen views
@@ -35,9 +35,9 @@ For advance control in the flex grid behavior:
 ----------
 ## Dress.css
 To used it you have to include the following file in your html head:
-´´´bash
+```bash
     ./src/dress-min.css
-´´´
+```
 width:
 - ".w-{0-100}" in steps of 5%
 ----------
