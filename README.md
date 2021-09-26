@@ -49,6 +49,7 @@ And the following class in your parent container:
 ```html
     <body class="dress">
 ```
+For dressing your container with the following helper's
 ###### width:
 - ".w-{0-100}" in steps of 5%
 ----------
