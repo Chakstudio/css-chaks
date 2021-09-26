@@ -1,10 +1,11 @@
 # css-libs
-## css-libs are
-a lightweight CSS flex grid library(Tiny Grid)
-## ➕ 
-a CSS helper library(Dress.css)
-for creating responsive UI's 
-## Tiny Grid
+**_css-libs_ are:**
+a lightweight CSS flex grid library(Tiny Grid[^1])
+➕ 
+a CSS helper library(Dress.css[^2])
+for creating responsive UI's
+[DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
+## [^1]Tiny Grid
 To used it you have to include the following file in your html head:
 ```bash
     ./src/tinygrid-min.css
@@ -33,7 +34,7 @@ For advance control in the flex grid behavior:
 - ".tg-align-{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
 - ".tg-align-content-{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
 ----------
-## Dress.css
+## [^2]Dress.css
 To used it you have to include the following file in your html head:
 ```bash
     ./src/dress-min.css
@@ -42,20 +43,20 @@ And the following class in your parent container:
 ```html
     <body class="dress">
 ```
-width:
+###### width:
 - ".w-{0-100}" in steps of 5%
 ----------
-height:
+###### height:
 - ".h-{0-100}" in steps of calc(5vh)
 ----------
-margin:
+###### margin:
 - ".m-{0-100}" in steps of 5%
 - ".ml-{0-100}" margin left in steps of 5%
 - ".mr-{0-100}" margin right in steps of 5%
 - ".mt-{0-100}" margin top in steps of 5%
 - ".mb-{0-100}" margin bottom in steps of 5%
 ----------
-padding:
+###### padding:
 - ".p-{0-100}" in steps of 5%
 - ".pl-{0-100}" padding left in steps of 5%
 - ".pr-{0-100}" padding right in steps of 5%
