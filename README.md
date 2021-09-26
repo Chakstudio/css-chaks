@@ -7,7 +7,6 @@ a CSS helper library([Dress.css](#dresscss))
 [DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
 ## Tiny Grid
 To used it you have to include the following file in your html head:
-----------
 ```bash
     ./src/tinygrid-min.css
 ```
