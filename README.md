@@ -54,9 +54,8 @@ For dressing your container & his children with the following [helper's](#helper
 ```html
 <head>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="./css/tinygrid-min.css">
     <link rel="stylesheet" href="./css/dress-min.css">
-    <title>Tiny Grid + Dress.css Demo</title>
+    <title>Dress.css Demo</title>
 </head>
 <body class="dress bg-grey">
     <div class="p-1 w-5 text-center sqr-48 box-shadow border-blue border-solid border-s4 md-hide">
