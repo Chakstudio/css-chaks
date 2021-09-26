@@ -5,8 +5,8 @@ a lightweight CSS flex grid library(Tiny Grid[^1])
 a CSS helper library(Dress.css[^2])
 for creating responsive UI's
 [DEMO](https://github.com/Chakstudio/css-libs/tree/main/demo)
-## [^1]Tiny Grid
-To used it you have to include the following file in your html head:
+## Tiny Grid
+[^1]To used it you have to include the following file in your html head:
 ```bash
     ./src/tinygrid-min.css
 ```
@@ -34,8 +34,8 @@ For advance control in the flex grid behavior:
 - ".tg-align-{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
 - ".tg-align-content-{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
 ----------
-## [^2]Dress.css
-To used it you have to include the following file in your html head:
+## Dress.css
+[^2]To used it you have to include the following file in your html head:
 ```bash
     ./src/dress-min.css
 ```
