@@ -63,6 +63,8 @@ For dressing your container & his children with the following [helper's](#helper
     </div>
 </body>
 ```
+- 
+----------
 #### Helper's
 ----------
 ###### width:
