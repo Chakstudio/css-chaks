@@ -144,7 +144,7 @@ for shadows in font and elements
 - ".overflow-{auto, hidden, scroll, autohide}"  
 for change _overflow_ elements behaivor
 - ".{center, left, right, absolute, relative, fixed}"  
-for position elements with _float_, _margin: 0 auto_ and _position_
+for position elements with _margin: 0 auto_, _float_ and _position_
 - ".d-{none, block, inline-block}"  
 for visibility elements with _display_
 - ".mouse-over"  
