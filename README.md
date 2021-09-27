@@ -4,6 +4,7 @@ lightweight CSS flex grid library [Tiny Grid](#tiny-grid)
 CSS helper library [Dress.css](#dresscss)
 #### for creating responsive UI's
 - [DEMO](https://chakstudio.github.io/css-chaks/demo/demo.html)
+  
 ----------
 ![Logo](https://raw.githubusercontent.com/Chakstudio/css-chaks/main/demo/img/logo.png)
 ## Tiny Grid
@@ -29,17 +30,20 @@ Where:
 - ".tg-row" css class for the flex container
 - ".tg-col-{1-12}" css class for desktop views
 - ".tg-col-md-{1-12}" css class for tablet and mid screen views
-- ".tg-col-sm-{1-12}" css class for smarthphone views  
+- ".tg-col-sm-{1-12}" css class for smarthphone views
+  
 ----------
 And:
 - ".lg-hide" for hide in desktop views
 - ".md-hide" for hide in tablet and mid screen views
-- ".sm-hide" for hide in smarthphone views  
+- ".sm-hide" for hide in smarthphone views
+   
 ----------
 For advance control in the flex grid behavior:
 - ".tg-justify{-, -md-,-sm-}{flex-start,flex-end,center}" for control flex justify behavior
 - ".tg-align{-, -md-,-sm-}{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
-- ".tg-align-content{-, -md-,-sm-}{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior  
+- ".tg-align-content{-, -md-,-sm-}{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
+  
 ----------
 ## Dress.css
 To used it you have to include the following file in your html head:
