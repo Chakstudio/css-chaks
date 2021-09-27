@@ -11,6 +11,7 @@ To used it you have to include the following file in your html head:
 ```bash
     ./src/tinygrid-min.css
 ```
+or with a CDN
 ```html
     <link rel="stylesheet" href="https://res.cloudinary.com/chakstudio/raw/upload/v1632703700/tinygrid-min_bpguow.css">
 ```
@@ -45,6 +46,7 @@ To used it you have to include the following file in your html head:
 ```bash
     ./src/dress-min.css
 ```
+or with a CDN
 ```html
     <link rel="stylesheet" href="https://res.cloudinary.com/chakstudio/raw/upload/v1632703700/dress-min_y0gbrt.css">
 ```
