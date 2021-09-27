@@ -117,7 +117,7 @@ for rectangle shapes **WHERE** the *height* is the _double_ of the *width* in pi
 #### Colors:
 * "black", "white", "gray", "silver", "maroon", "red", "purple", *  
 * "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", *  
-* "teal", and "aqua" *  
+* "teal", "aqua" *  
 ----------
 ###### Font
 - ".{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
