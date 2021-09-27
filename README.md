@@ -12,7 +12,7 @@ To used it you have to include the following file in your html head:
     ./src/tinygrid-min.css
 ```
 ```html
-    <link rel="stylesheet" href="./css/tinygrid-min.css">
+    <link rel="stylesheet" href="https://res.cloudinary.com/chakstudio/raw/upload/v1632703700/tinygrid-min_bpguow.css">
 ```
 And the following structure in your html tags:
 ```html
@@ -46,7 +46,7 @@ To used it you have to include the following file in your html head:
     ./src/dress-min.css
 ```
 ```html
-    <link rel="stylesheet" href="./css/dress-min.css">
+    <link rel="stylesheet" href="https://res.cloudinary.com/chakstudio/raw/upload/v1632703700/dress-min_y0gbrt.css">
 ```
 And the following class in your parent container:
 ```html
