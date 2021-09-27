@@ -87,7 +87,7 @@ For dressing your container & his children with the following [helper's](#helper
 - ".pt-{1-100}" padding top in steps of 5% (1,5,10,15...)
 - ".pb-{1-100}" padding bottom in steps of 5% (1,5,10,15...)
 ----------
-###### Text decoration:
+###### Text Decoration:
 - ".text-{uppercase,lowercase,capitalize,bold,bolder,underline,overline,line-through,blink,decoration-none}"  
 for text decoration and basic styling
 ----------
