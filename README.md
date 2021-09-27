@@ -31,20 +31,14 @@ Where:
 - ".tg-col-{1-12}" css class for desktop views
 - ".tg-col-md-{1-12}" css class for tablet and mid screen views
 - ".tg-col-sm-{1-12}" css class for smarthphone views
-  
-----------
 And:
 - ".lg-hide" for hide in desktop views
 - ".md-hide" for hide in tablet and mid screen views
 - ".sm-hide" for hide in smarthphone views
-   
-----------
 For advance control in the flex grid behavior:
 - ".tg-justify{-, -md-,-sm-}{flex-start,flex-end,center}" for control flex justify behavior
 - ".tg-align{-, -md-,-sm-}{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
 - ".tg-align-content{-, -md-,-sm-}{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
-  
-----------
 ## Dress.css
 To used it you have to include the following file in your html head:
 ```bash
@@ -85,29 +79,23 @@ For dressing your container & his children with the following [helper's](#helper
 - ".mr-{1-100}" margin right in steps of 5% (1,5,10,15...)
 - ".mt-{1-100}" margin top in steps of 5% (1,5,10,15...)
 - ".mb-{1-100}" margin bottom in steps of 5% (1,5,10,15...)  
-----------
 ###### Padding:
 - ".p-{0-100}" in steps of 5% (0,1,5,10,15...)
 - ".pl-{1-100}" padding left in steps of 5% (1,5,10,15...)
 - ".pr-{1-100}" padding right in steps of 5% (1,5,10,15...)
 - ".pt-{1-100}" padding top in steps of 5% (1,5,10,15...)
 - ".pb-{1-100}" padding bottom in steps of 5% (1,5,10,15...)  
-----------
 ###### Text Decoration:
 - ".text-{uppercase,lowercase,capitalize,bold,bolder,underline,overline,line-through,blink,decoration-none}"  
 for text decoration and basic styling  
-----------
 ###### Text Position:
 - ".text-{left,right,center,justify}"  
 for text alignment  
-----------
 ###### Font Size:
 - ".fs-{6-72}" in steps of 3px (6,9,12,...,72)  
-----------
 ###### Cursors:
 - ".c-{pointer,move,help,wait,hand}"  
 for cursor icons  
-----------
 ###### Shapes:
 - ".rounded"  
 for rounded corners on elements of 5px of border-radius
@@ -117,39 +105,30 @@ for circle elements of 50% of border-radius
 for square shapes in pixels
 - ".rec-{24,48,96,128}"  
 for rectangle shapes **WHERE** the *height* is the _double_ of the *width* in pixels  
-----------
 #### Colors:
 * "black", "white", "gray", "silver", "maroon", "red", "purple", *  
 * "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", *  
 * "teal", "aqua" *  
-----------
 ###### Font
 - ".{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
 for font color  
-----------
 ###### Background
 - ".bg-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
 for background color  
-----------
 ###### Border Color
 - ".border-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
 for border color  
-----------
 ###### Border Size
 - ".border-s{1-5}" in steps of 1px  
-----------
 ###### Border Style
 - ".border-{"solid", "dashed", "dotted", "double", "ridge", "none"}"  
 for border-style propierty  
-----------
 ###### Shadows
 - ".{"text", "box"}-shadow"  
 for shadows in font and elements  
-----------
 ###### Opacity
 - ".op-{0-10}"  
 for _opacity_ changes in elements  
-----------
 ###### Elements
 - ".overflow-{auto, hidden, scroll, autohide}"  
 for change _overflow_ elements behaivor
@@ -159,4 +138,3 @@ for position elements with _margin: 0 auto_, _float_ and _position_
 for visibility elements with _display_
 - ".mouse-over"  
 for mouseover element styling with _box-shadow_ and _border-radius_  
-----------
