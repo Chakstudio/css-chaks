@@ -2,7 +2,7 @@
 lightweight CSS flex grid library [Tiny Grid](#tiny-grid)
 #### ➕ 
 CSS helper library [Dress.css](#dresscss)
-#### for creating responsive UI's
+#### For creating responsive UI's
 - [DEMO](https://chakstudio.github.io/css-chaks/demo/demo.html)
   
 ----------
