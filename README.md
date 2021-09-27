@@ -66,13 +66,10 @@ For dressing your container & his children with the following [helper's](#helper
     </body>
 ```
 #### Helper's
-----------
 ###### Width:
 - ".w-{1-100}" in steps of 5% (1,5,10,15...)  
-----------
 ###### Height:
 - ".h-{1-100}" in steps of calc(5vh) (1,5,10,15...)  
-----------
 ###### Margin:
 - ".m-{0-100}" in steps of 5% (0,1,5,10,15...)
 - ".ml-{1-100}" margin left in steps of 5% (1,5,10,15...)
