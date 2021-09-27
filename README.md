@@ -67,20 +67,20 @@ For dressing your container & his children with the following [helper's](#helper
 ```
 #### Helper's
 ----------
-###### width:
+###### Width:
 - ".w-{1-100}" in steps of 5% (1,5,10,15...)
 ----------
-###### height:
+###### Height:
 - ".h-{1-100}" in steps of calc(5vh) (1,5,10,15...)
 ----------
-###### margin:
+###### Margin:
 - ".m-{0-100}" in steps of 5% (0,1,5,10,15...)
 - ".ml-{1-100}" margin left in steps of 5% (1,5,10,15...)
 - ".mr-{1-100}" margin right in steps of 5% (1,5,10,15...)
 - ".mt-{1-100}" margin top in steps of 5% (1,5,10,15...)
 - ".mb-{1-100}" margin bottom in steps of 5% (1,5,10,15...)
 ----------
-###### padding:
+###### Padding:
 - ".p-{0-100}" in steps of 5% (0,1,5,10,15...)
 - ".pl-{1-100}" padding left in steps of 5% (1,5,10,15...)
 - ".pr-{1-100}" padding right in steps of 5% (1,5,10,15...)
@@ -129,7 +129,7 @@ for background color
 - ".border-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
 for border color
 ----------
-###### Border Width
+###### Border Size
 - ".border-s{1-5}" in steps of 1px
 ----------
 ###### Border Style
