@@ -3,7 +3,7 @@ lightweight CSS flex grid library [Tiny Grid](#tiny-grid)
 #### ➕ 
 CSS helper library [Dress.css](#dresscss)
 #### for creating responsive UI's
-- [DEMO](https://github.com/Chakstudio/css-chaks/tree/main/demo)
+- [DEMO](https://chakstudio.github.io/css-chaks/demo/demo.html)
 ----------
 ![Logo](https://raw.githubusercontent.com/Chakstudio/css-chaks/main/demo/img/logo.png)
 ## Tiny Grid
@@ -29,17 +29,17 @@ Where:
 - ".tg-row" css class for the flex container
 - ".tg-col-{1-12}" css class for desktop views
 - ".tg-col-md-{1-12}" css class for tablet and mid screen views
-- ".tg-col-sm-{1-12}" css class for smarthphone views
+- ".tg-col-sm-{1-12}" css class for smarthphone views  
 ----------
 And:
 - ".lg-hide" for hide in desktop views
 - ".md-hide" for hide in tablet and mid screen views
-- ".sm-hide" for hide in smarthphone views
+- ".sm-hide" for hide in smarthphone views  
 ----------
 For advance control in the flex grid behavior:
 - ".tg-justify{-, -md-,-sm-}{flex-start,flex-end,center}" for control flex justify behavior
 - ".tg-align{-, -md-,-sm-}{flex-start,flex-end,center,strech,baseline}" for control flex align behavior
-- ".tg-align-content{-, -md-,-sm-}{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior
+- ".tg-align-content{-, -md-,-sm-}{flex-start,flex-end,center,strech,space-between,space-around}" for control flex align-content behavior  
 ----------
 ## Dress.css
 To used it you have to include the following file in your html head:
@@ -70,39 +70,39 @@ For dressing your container & his children with the following [helper's](#helper
 #### Helper's
 ----------
 ###### Width:
-- ".w-{1-100}" in steps of 5% (1,5,10,15...)
+- ".w-{1-100}" in steps of 5% (1,5,10,15...)  
 ----------
 ###### Height:
-- ".h-{1-100}" in steps of calc(5vh) (1,5,10,15...)
+- ".h-{1-100}" in steps of calc(5vh) (1,5,10,15...)  
 ----------
 ###### Margin:
 - ".m-{0-100}" in steps of 5% (0,1,5,10,15...)
 - ".ml-{1-100}" margin left in steps of 5% (1,5,10,15...)
 - ".mr-{1-100}" margin right in steps of 5% (1,5,10,15...)
 - ".mt-{1-100}" margin top in steps of 5% (1,5,10,15...)
-- ".mb-{1-100}" margin bottom in steps of 5% (1,5,10,15...)
+- ".mb-{1-100}" margin bottom in steps of 5% (1,5,10,15...)  
 ----------
 ###### Padding:
 - ".p-{0-100}" in steps of 5% (0,1,5,10,15...)
 - ".pl-{1-100}" padding left in steps of 5% (1,5,10,15...)
 - ".pr-{1-100}" padding right in steps of 5% (1,5,10,15...)
 - ".pt-{1-100}" padding top in steps of 5% (1,5,10,15...)
-- ".pb-{1-100}" padding bottom in steps of 5% (1,5,10,15...)
+- ".pb-{1-100}" padding bottom in steps of 5% (1,5,10,15...)  
 ----------
 ###### Text Decoration:
 - ".text-{uppercase,lowercase,capitalize,bold,bolder,underline,overline,line-through,blink,decoration-none}"  
-for text decoration and basic styling
+for text decoration and basic styling  
 ----------
 ###### Text Position:
 - ".text-{left,right,center,justify}"  
-for text alignment
+for text alignment  
 ----------
 ###### Font Size:
-- ".fs-{6-72}" in steps of 3px (6,9,12,...,72)
+- ".fs-{6-72}" in steps of 3px (6,9,12,...,72)  
 ----------
 ###### Cursors:
 - ".c-{pointer,move,help,wait,hand}"  
-for cursor icons
+for cursor icons  
 ----------
 ###### Shapes:
 - ".rounded"  
@@ -112,7 +112,7 @@ for circle elements of 50% of border-radius
 - ".sqr-{24,48,96,128}"  
 for square shapes in pixels
 - ".rec-{24,48,96,128}"  
-for rectangle shapes **WHERE** the *height* is the _double_ of the *width* in pixels
+for rectangle shapes **WHERE** the *height* is the _double_ of the *width* in pixels  
 ----------
 #### Colors:
 * "black", "white", "gray", "silver", "maroon", "red", "purple", *  
@@ -121,30 +121,30 @@ for rectangle shapes **WHERE** the *height* is the _double_ of the *width* in pi
 ----------
 ###### Font
 - ".{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
-for font color
+for font color  
 ----------
 ###### Background
 - ".bg-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
-for background color
+for background color  
 ----------
 ###### Border Color
 - ".border-{"black", "white", "gray", "silver", "maroon", "red", "purple", "hotpink", "green", "lime", "olive", "yellow", "navy", "blue", "teal", "aqua"}"  
-for border color
+for border color  
 ----------
 ###### Border Size
-- ".border-s{1-5}" in steps of 1px
+- ".border-s{1-5}" in steps of 1px  
 ----------
 ###### Border Style
 - ".border-{"solid", "dashed", "dotted", "double", "ridge", "none"}"  
-for border-style propierty
+for border-style propierty  
 ----------
 ###### Shadows
 - ".{"text", "box"}-shadow"  
-for shadows in font and elements
+for shadows in font and elements  
 ----------
 ###### Opacity
 - ".op-{0-10}"  
-for _opacity_ changes in elements
+for _opacity_ changes in elements  
 ----------
 ###### Elements
 - ".overflow-{auto, hidden, scroll, autohide}"  
@@ -154,5 +154,5 @@ for position elements with _margin: 0 auto_, _float_ and _position_
 - ".d-{none, block, inline-block}"  
 for visibility elements with _display_
 - ".mouse-over"  
-for mouseover element styling with _box-shadow_ and _border-radius_
+for mouseover element styling with _box-shadow_ and _border-radius_  
 ----------
